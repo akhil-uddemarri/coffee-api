@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "Brewed Coffee",
+        "category": "Coffee",
+        "size": "Small",
+        "price": "$2.00"
+    },
+    {
+        "id": 2,
+        "name": "Brewed Coffee",
+        "category": "Coffee",
+        "size": "Medium",
+        "price": "$3.00"
+    },
+    {
+        "id": 3,
+        "name": "Brewed Coffee",
+        "category": "Coffee",
+        "size": "Large",
+        "price": "$4.00"
+    },
+    {
+        "id": 4,
+        "name": "Misto",
+        "category": "Coffee",
+        "size": "Small",
+        "price": "$3.50"
+    },
+    {
+        "id": 5,
+        "name": "Misto",
+        "category": "Coffee",
+        "size": "Medium",
+        "price": "$4.50"
+    },
+    {
+        "id": 6,
+        "name": "Misto",
+        "category": "Coffee",
+        "size": "Large",
+        "price": "$5.50"
+    },
+    {
+        "id": 7,
+        "name": "Americano",
+        "category": "Coffee",
+        "size": "Small",
+        "price": "$3.00"
+    },
+    {
+        "id": 8,
+        "name": "Americano",
+        "category": "Coffee",
+        "size": "Medium",
+        "price": "$4.00"
+    },
+    {
+        "id": 9,
+        "name": "Americano",
+        "category": "Coffee",
+        "size": "Large",
+        "price": "$5.00"
+    },
+    {
+        "id": 10,
+        "name": "Late",
+        "category": "Coffee",
+        "size": "Small",
+        "price": "$3.50"
+    },
+    {
+        "id": 11,
+        "name": "Late",
+        "category": "Coffee",
+        "size": "Medium",
+        "price": "$4.50"
+    },
+    {
+        "id": 12,
+        "name": "Late",
+        "category": "Coffee",
+        "size": "Large",
+        "price": "$5.50"
+    },
+    {
+        "id": 13,
+        "name": "Black Tea",
+        "category": "Tea",
+        "size": "Small",
+        "price": "$1.00"
+    },
+    {
+        "id": 14,
+        "name": "Black Tea",
+        "category": "Tea",
+        "size": "Medium",
+        "price": "$1.50"
+    },
+    {
+        "id": 15,
+        "name": "Black Tea",
+        "category": "Tea",
+        "size": "Large",
+        "price": "$2.00"
+    },
+    {
+        "id": 16,
+        "name": "Green Tea",
+        "category": "Tea",
+        "size": "Small",
+        "price": "$1.50"
+    },
+    {
+        "id": 17,
+        "name": "Green Tea",
+        "category": "Tea",
+        "size": "Medium",
+        "price": "$2.00"
+    },
+    {
+        "id": 18,
+        "name": "Green Tea",
+        "category": "Tea",
+        "size": "Large",
+        "price": "$2.50"
+    },
+    {
+        "id": 19,
+        "name": "Additional Favor",
+        "category": "Extra",
+        "price": "$0.50"
+    },
+    {
+        "id": 20,
+        "name": "Additional Shot",
+        "category": "Extra",
+        "price": "$0.50"
+    }
+]

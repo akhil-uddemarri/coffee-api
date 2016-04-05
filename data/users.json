@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Akhil Uddemarri",
+        "password": "Coffee!1",
+        "email": "akhil.uddemarri@gmail.com",
+        "isBarista": false
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "password": "Coffee!1",
+        "email": "john.doe@gmail.com",
+        "isBarista": true
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Akhil.Uddemarri",
+  "version": "1.0.0",
+  "description": "coffee ordering system",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha"
+  },
+  "author": "Akhil.Uddemarri",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.0",
+    "supertest": "^1.2.0"
+  }
+}
